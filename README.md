@@ -1,2 +1,2 @@
 # mini_instagram
-Django project 
+This is a django project 
